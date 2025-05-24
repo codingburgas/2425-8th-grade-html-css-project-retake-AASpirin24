@@ -7,7 +7,7 @@
 
 ## 🗂 About the Project
 
-## ** Siberian feast ** 
+##  Siberian feast - 
 ## 🧪 Languages Used
 
 <p align="left">
@@ -30,4 +30,4 @@
 
 ## 👤 Developer
 
-## ** Aleksei Spirin **
+##  Aleksei Spirin 
