@@ -7,7 +7,7 @@
 
 ## 🗂 About the Project
 
-##  Siberian feast - 
+##  Siberian feast - Savor the Wild Taste of Siberia!
 ## 🧪 Languages Used
 
 <p align="left">
