@@ -156,3 +156,31 @@ button {
     border-radius: 10px;
     margin: 10px;
 }
+.newContainer {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 1000px;
+    overflow: hidden;
+    margin: 10px auto;
+}
+.newImage {
+    width: 50%;
+    height: 200px;
+    object-fit: cover;
+}
+.newText {
+    padding: 20px;
+    width: 50%;
+    font-size: 1.1em;
+    color: #555;
+}
+.restaurantHeading {
+    font-size: 2em;
+    color: #333;
+    text-align: center;
+    margin: 20px 0;
+}
