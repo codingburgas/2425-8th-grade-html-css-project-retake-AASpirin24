@@ -185,3 +185,37 @@ button {
     text-align: center;
     margin: 20px 0;
 }
+.menuContainer {
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 1000px;
+    margin: 10px auto;
+    padding: 20px;
+}
+.menuItem {
+    text-align: center;
+}
+.menuImage {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.menuText {
+    margin-top: 10px;
+    font-size: 1.1em;
+    color: #555;
+}
+.menuButton {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #66dffd;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
