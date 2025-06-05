@@ -103,7 +103,7 @@ li {
 li::before {
     content: "✓";
     color: #66dffd;
-position: absolute;
+    position: absolute;
     left: 0;
     font-size: 1.2em;
 }
