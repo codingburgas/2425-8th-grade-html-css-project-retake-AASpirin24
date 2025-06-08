@@ -72,3 +72,37 @@ body {
     border-radius: 10px;
     margin: 10px;
 }
+.notificationContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 100px);
+}
+.notificationBox {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+.notificationBox h2 {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+}
+.notificationBox button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 25px;
+    font-size: 1em;
+    cursor: pointer;
+    background-color: #66dffd;
+    color: white;
+    transition: background-color 0.3s;
+}
+.notificationBox button:hover {
+    background-color: #66dffd6e;
+}
